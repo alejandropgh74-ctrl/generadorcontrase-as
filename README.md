@@ -18,8 +18,11 @@ Desarrollar progresivamente un programa capaz de generar contraseñas según las
 
 Actualmente el proyecto se encuentra en su etapa inicial de desarrollo. Se ha comenzado con la configuración de las opciones de la contraseña y el uso de estructuras condicionales.
 
-## Herramientas utilizadas
+## Entorno de desarrollo
 
-- Python
-- Visual Studio Code
-- GitHub
+Para el desarrollo del proyecto se utilizaron las siguientes herramientas:
+
+- Lenguaje de programación: Python
+- IDE: Visual Studio Code
+- Control de versiones y repositorio: GitHub
+- Sistema operativo: macOS
