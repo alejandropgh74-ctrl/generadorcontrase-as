@@ -16,7 +16,7 @@ if longitud <= 12:
 else:
     print("La longitud de la contraseña es fuerte.")
 
-numeros = input("¿Desea incluir números? Escriba si o no: ").strip().lower()
+numeros = input("¿Desea incluir números? Escriba si o no: ")
 
 # Evalúa si el usuario desea incluir números
 if numeros == "si":
@@ -24,7 +24,7 @@ if numeros == "si":
 else:
     print("La contraseña no incluirá números.")
 
-simbolos = input("¿Desea incluir símbolos? Escriba si o no: ").strip().lower()
+simbolos = input("¿Desea incluir símbolos? Escriba si o no: ")
 
 # Evalúa si el usuario desea incluir símbolos
 if simbolos == "si":
